@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/markME/static/css/main.a920d40f.css",
+    "main.js": "/markME/static/js/main.defe5fad.js",
+    "static/js/787.d4aba7ab.chunk.js": "/markME/static/js/787.d4aba7ab.chunk.js",
+    "static/media/PencilCorrectingPaper.png": "/markME/static/media/PencilCorrectingPaper.90f408162c86e58e6960.png",
+    "index.html": "/markME/index.html",
+    "main.a920d40f.css.map": "/markME/static/css/main.a920d40f.css.map",
+    "main.defe5fad.js.map": "/markME/static/js/main.defe5fad.js.map",
+    "787.d4aba7ab.chunk.js.map": "/markME/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a920d40f.css",
+    "static/js/main.defe5fad.js"
+  ]
+}
